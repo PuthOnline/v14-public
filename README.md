@@ -1,2 +1,4 @@
-# v14-public
-V14 Public / Ekip / Priv Botlarım
+# V14 PUBLIC / EKIP VE PRIV BOT
+
+> [!IMPORTANT]  
+> Eski github hesabımı sildiğim için tekrardan bu yeni hesabımdan paylaşıcam resimleri 
